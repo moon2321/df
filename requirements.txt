@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+instaloader
+phonenumbers
+beautifulsoup4
+requests
+pycountry
+user_agent
